@@ -1,6 +1,6 @@
 # URL extracter from a given website
 
-Searches for URLs on a given domain with a given recursion level (e.g. 5), excludes mails and common picture extensions (like .jpeg) and shows a list of all URLs.
+Searches for URLs on a given domain with a given recursion level (e.g. 5), excludes mails and common picture extensions (like .jpeg) and returns a list of all URLs.
 
 # Demonstration
 
